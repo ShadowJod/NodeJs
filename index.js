@@ -6,4 +6,4 @@ console.log("My Name is Nikhil");
 console.log(app.x,app.y,app.z());
 console.log("Package.json");
 console.log("Hello".red);
-
+console.log(process);
